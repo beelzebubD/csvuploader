@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "267472985830",
+    "firebase_url": "https://omnia-tap-assignmnet.firebaseio.com",
+    "project_id": "omnia-tap-assignmnet",
+    "storage_bucket": "omnia-tap-assignmnet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267472985830:android:3b69edc748b79bb4",
+        "android_client_info": {
+          "package_name": "com.singh.divyanshu.omnia_tap_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267472985830-ff2bmc1arolnhjn4s2a0ba20d2feavru.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.singh.divyanshu.omnia_tap_assignment",
+            "certificate_hash": "d9832e94a3722dc5f8326115b043eeddbce75f1c"
+          }
+        },
+        {
+          "client_id": "267472985830-5pk3n8ptvcd8kri5v6haq4koaej9t4er.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKHwR8LWIs93gc4_gx4bl_wJBrrraVQAQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267472985830-5pk3n8ptvcd8kri5v6haq4koaej9t4er.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
